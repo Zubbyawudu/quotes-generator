@@ -47,7 +47,11 @@ const quotes = [{
 },{
   quote:`"Life isn't about waiting for the storm to pass, but learning to dance in the rain."`,
   author:`Vivian Greene`
-},];
+},{
+  quote:`"Don't watch the clock; do what it does. Keep going."`,
+  author:`Sam Levenson`
+},
+];
 
 /// Process in generating the a new quote..
 btn.addEventListener('click', function(){
